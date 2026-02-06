@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arshiya<br><br>I’m a Computer Science Engineering student passionate about building clean, user-focused digital experiences. I enjoy working at the intersection of software development, UI/UX design, and emerging technologies.<br><br>* 💻 Exploring full-stack development & system design<br>* 🎨 Strong interest in UI/UX and product design<br>* 🚀 Hackathon enthusiast & collaborative builder<br>* 🌱 Always learning, always improving<br><br>Currently focused on creating meaningful projects and growing as an engineer.<br><br><br>
+👋 Hi, I’m Arshiya<br><br>I’m a Computer Science student passionate about building clean, user-focused digital experiences. I enjoy working at the intersection of software development, UI/UX design, and emerging technologies.<br><br>* 💻 Exploring full-stack development & system design<br>* 🎨 Strong interest in UI/UX and product design<br>* 🚀 Hackathon enthusiast & collaborative builder<br>* 🌱 Always learning, always improving<br><br>Currently focused on creating meaningful projects and growing as an engineer.<br><br><br>
 
 
 ## 🌐 Socials:
